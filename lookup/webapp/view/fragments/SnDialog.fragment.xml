@@ -1,7 +1,0 @@
-<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
-	<SelectDialog id="snDialog" title="{i18n>SERIAL_NUMBER}" 
-    items="{path: '/SerialNrSet', events: { dataReceived: '.onSNReceived' } }" search="handleSNSearch" confirm="handleSNConfirm" rememberSelections="true" showClearButton="true" 
-		cancel="handleSNCancel" multiSelect="true" growingThreshold="30" noDataText="{i18n>NO_SN}">
-		<StandardListItem id="_IDGenStandardListItem1"  title="{Serid}"/>
-	</SelectDialog>
-</core:FragmentDefinition>

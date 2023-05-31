@@ -1,0 +1,18 @@
+
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+	<SelectDialog id="warehouseDialog" title="{i18n>WAREHOUSE}" growing="false"
+    	items="{
+			path: 'MainModel>/allWarehouse',
+			sorter: {
+				path: 'City',
+				descending: false,
+				group: true
+			},
+            length: '1000'
+		}"
+        confirm=".onWHConfirm" liveChange=".onWHSearch" search=".onWHSearch"
+        showClearButton="true" rememberSelections="true"
+		multiSelect="true" noDataText="{i18n>NO_WAREHOUSE}">
+		<StandardListItem id="itemWHNo" selected="{MainModel>selected}" title="{MainModel>Whseno} {MainModel>Whsedesc}" info="{MainModel>City}" />
+	</SelectDialog>
+</core:FragmentDefinition>

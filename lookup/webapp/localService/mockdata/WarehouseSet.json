@@ -1,0 +1,396 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('0001')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('0001')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "0001",
+                "Language": "EN",
+                "Whsedesc": "Central Warehouse",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1010')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1010')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "1010",
+                "Language": "EN",
+                "Whsedesc": "Warehouse Cross Industries",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1030')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1030')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "1030",
+                "Language": "EN",
+                "Whsedesc": "Warehouse Cross Industries - S4C integr.",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1060')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1060')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "1060",
+                "Language": "EN",
+                "Whsedesc": "Decentral Warehouse",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1110')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1110')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "1110",
+                "Language": "EN",
+                "Whsedesc": "Warehouse Cross Industries",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1210')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1210')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "1210",
+                "Language": "EN",
+                "Whsedesc": "Warehouse Cross Industries",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1310')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1310')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "1310",
+                "Language": "EN",
+                "Whsedesc": "Warehouse Cross Industries",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1710')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1710')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "1710",
+                "Language": "EN",
+                "Whsedesc": "US Warehouse Cross Industries",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1760')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('1760')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "1760",
+                "Language": "EN",
+                "Whsedesc": "Decentral Warehouse",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('2110')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('2110')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "2110",
+                "Language": "EN",
+                "Whsedesc": "Warehouse Cross Industries",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('2510')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('2510')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "2510",
+                "Language": "EN",
+                "Whsedesc": "Warehouse Cross Industries",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('3710')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('3710')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "3710",
+                "Language": "EN",
+                "Whsedesc": "Warehouse Cross Industries",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('6110')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('6110')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "6110",
+                "Language": "EN",
+                "Whsedesc": "Warehouse Cross Industries",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('FA01')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('FA01')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "FA01",
+                "Language": "EN",
+                "Whsedesc": "Faiz rocking warehouse",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('IK01')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('IK01')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "IK01",
+                "Language": "EN",
+                "Whsedesc": "Ikhwan's Warehouse",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('LNA1')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('LNA1')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "LNA1",
+                "Language": "EN",
+                "Whsedesc": "Lina's Warehouse",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('LNA2')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('LNA2')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "LNA2",
+                "Language": "EN",
+                "Whsedesc": "Lina2 Warehouse",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('LNA3')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('LNA3')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "LNA3",
+                "Language": "EN",
+                "Whsedesc": "Central Warehouse",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('LTST')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('LTST')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "LTST",
+                "Language": "EN",
+                "Whsedesc": "Test WH",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('M001')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('M001')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "M001",
+                "Language": "EN",
+                "Whsedesc": "AsyrafHazli Warehouse",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('R001')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('R001')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "R001",
+                "Language": "EN",
+                "Whsedesc": "Warehouse Cross Industries(TEST)",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('SAN1')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('SAN1')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "SAN1",
+                "Language": "EN",
+                "Whsedesc": "SAN1 Warehouse",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('SAN2')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('SAN2')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "SAN2",
+                "Language": "EN",
+                "Whsedesc": "SAN2 Warehouse",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('SANC')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('SANC')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "SANC",
+                "Language": "EN",
+                "Whsedesc": "Warehouse Cross Industries",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('SANT')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('SANT')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "SANT",
+                "Language": "EN",
+                "Whsedesc": "Warehouse Cross Industries (FAST Medium)",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('SC01')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('SC01')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "SC01",
+                "Language": "EN",
+                "Whsedesc": "Central WH Selangor",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('SCHA')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('SCHA')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "SCHA",
+                "Language": "EN",
+                "Whsedesc": "Warehouse_SCH",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('W010')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('W010')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "W010",
+                "Language": "EN",
+                "Whsedesc": "Warehouse Cross Industries (FAST Medium)",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('WUCN')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('WUCN')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "WUCN",
+                "Language": "EN",
+                "Whsedesc": "Warehouse Cross Industries",
+                "City": "",
+                "Returncode": 0
+            },
+            {
+                "__metadata": {
+                    "id": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('YAP1')",
+                    "uri": "https://dlwr-s4h-p9.dcsc.be:443/sap/opu/odata/sap/ZEWM_LOOKUP_SRV/WarehouseSet('YAP1')",
+                    "type": "ZEWM_LOOKUP_SRV.Warehouse"
+                },
+                "Userid": "WANGQ",
+                "Whseno": "YAP1",
+                "Language": "EN",
+                "Whsedesc": "AsyrafHazli Warehouse",
+                "City": "",
+                "Returncode": 0
+            }
+        ]
+    }
+}

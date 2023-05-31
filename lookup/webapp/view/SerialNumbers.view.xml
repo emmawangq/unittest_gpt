@@ -1,0 +1,21 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" controllerName="dlw.lookup.controller.SerialNumbers" xmlns="sap.m" xmlns:core="sap.ui.core">
+    <Page id="SerialNumbers" showHeader="true" title="{i18n>SERIAL_NUMBERS}" showFooter="true" showNavButton="true" navButtonPress="onNavBack">
+        <content>
+          <ObjectStatus id="obPart" state="Information"
+                                    class="sapUiSmallMargin"
+                                    text="{SerialNumbersModel>/product/PartNum} {SerialNumbersModel>/product/PartDesc}" 
+                                     />
+            <List id="listSNs" mode="None" width="100%" headerText="" footerText="" backgroundDesign="Solid" showSeparators="All" growing="true" growingThreshold="20" growingScrollToLoad="true" items="{ScanOut>/SerialNrSet}">
+                <CustomListItem id="_IDGenCustomListItem1">
+                    <VBox id="_IDGenVBox1" class="sapUiSmallMarginBegin sapUiTinyMarginTopBottom" >
+                        <Label id="_IDGenLabel1" text="{ScanOut>Serid}"/>
+                    </VBox>
+                </CustomListItem>
+            </List>
+        </content>
+        <footer/>
+        <headerContent/>
+        <subHeader/>
+        <customHeader/>
+    </Page>
+</mvc:View>

@@ -1,0 +1,25 @@
+/* Enter your custom styles here */
+
+.lookupPart .sapMObjStatusText {
+    word-break: keep-all !important;
+}
+
+.lookup_cell_subject {
+    color: #0c45ae !important;
+}
+
+.cancelScanner {
+    margin-left: 10px;
+    margin-top: -40px !important;
+    position: relative;
+    z-index: 10001;
+}
+
+.code-location-canvas {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+  }
